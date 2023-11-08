@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QM7ulggEC5kChAf+rWeQq6B0X1/sTv4G76yDE61Q6/Ulq66EBA5iRUMS5FVWFJJ547jJk6QwTyby+y/DBWHpog==",
+  "dgSpecHash": "ynBX+R0vj96+/Ly1ktRmCA3ZZztwr39CuUKSIKRckyHoURQVYsYqy5WdBybvv6rPAbuAw/mxsjWNZlMDTsrFZg==",
   "success": true,
-  "projectFilePath": "C:\\Programacion 2.0\\Hotel.Domain\\Hotel.Ioc\\Hotel.Ioc.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\JH\\Documents\\Programacion 2.0\\Hotel.Domain\\Hotel.Ioc\\Hotel.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JH\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JH\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

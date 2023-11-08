@@ -1,0 +1,15 @@
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.deps.json
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Application.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.AssemblyInfoInputs.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.AssemblyInfo.cs
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.CoreCompileInputs.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Domain.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Infrastructure.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Infrastructure.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\bin\Debug\netstandard2.1\Hotel.Domain.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.AssemblyReference.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.CopyComplete

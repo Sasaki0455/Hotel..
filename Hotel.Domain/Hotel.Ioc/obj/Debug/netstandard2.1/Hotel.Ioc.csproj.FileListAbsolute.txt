@@ -1,0 +1,13 @@
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.deps.json
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.AssemblyInfoInputs.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.AssemblyInfo.cs
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.CoreCompileInputs.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain.dll
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain.pdb
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.AssemblyReference.cache
+C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.CopyComplete

@@ -5,4 +5,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Excepctions\" />
+    <Folder Include="Response\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hotel.Infrastructure\Hotel.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
